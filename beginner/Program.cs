@@ -13,11 +13,6 @@ namespace beginner
             var car = new Car();
             var carList = new List<Car>();
             carList.Add(car);
-
-
-            var animal = new Animal();
-            var zoo = new List<Car>();
-            zoo.Add(car);
         }
     }
 }
