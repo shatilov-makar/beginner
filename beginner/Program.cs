@@ -10,6 +10,9 @@ namespace beginner
     {
         static void Main(string[] args)
         {
+            var car = new Car();
+            var carList = new List<Car>();
+            carList.Add(car);
         }
     }
 }
