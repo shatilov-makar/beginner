@@ -18,6 +18,9 @@ namespace beginner
             var animal = new Animal();
             var zoo = new List<Car>();
             zoo.Add(car);
+
+            Console.WriteLine("Hello world new branch!");
+            Console.ReadKey();
         }
     }
 }
