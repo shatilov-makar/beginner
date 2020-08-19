@@ -16,10 +16,10 @@ namespace beginner
 
 
             var animal = new Animal();
-            var zoo = new List<Car>();
-            zoo.Add(car);
+            var zoo = new List<Animal>();
+            zoo.Add(animal);
 
-            Console.WriteLine("Hello world new branch!");
+            Console.WriteLine("Hello world terminal!");
             Console.ReadKey();
         }
     }
