@@ -10,16 +10,8 @@ namespace beginner
     {
         static void Main(string[] args)
         {
-            var car = new Car();
-            var carList = new List<Car>();
-            carList.Add(car);
-
-
-            var animal = new Animal();
-            var zoo = new List<Animal>();
-            zoo.Add(animal);
-
-            Console.WriteLine("Hello world terminal!");
+           
+            Console.WriteLine("Hello world new branch in terminal!");
             Console.ReadKey();
         }
     }
