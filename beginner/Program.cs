@@ -11,7 +11,9 @@ namespace beginner
         static void Main(string[] args)
         {
             var dic = new Dictionary <int, string>();
-            dic.Add(15, "makar");
+            dic.Add(15, "misha");
+            dic.Add(16, "makar");
+            dic.Add(17, "roman");
             Console.WriteLine("Hello world new branch in terminal!");
             Console.ReadKey();
         }
