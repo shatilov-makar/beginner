@@ -10,7 +10,8 @@ namespace beginner
     {
         static void Main(string[] args)
         {
-           
+            var dic = new Dictionary <int, string>();
+            dic.Add(15, "makar");
             Console.WriteLine("Hello world new branch in terminal!");
             Console.ReadKey();
         }
