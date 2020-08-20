@@ -10,6 +10,7 @@ namespace beginner
     {
         static void Main(string[] args)
         {
+            var sd
             Console.WriteLine("Hello world new branch in terminal!");
             Console.ReadKey();
         }
